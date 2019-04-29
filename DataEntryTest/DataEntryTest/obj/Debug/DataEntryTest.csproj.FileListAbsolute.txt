@@ -1,0 +1,19 @@
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\bin\Debug\DataEntryTest.exe.config
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\bin\Debug\DataEntryTest.exe
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\bin\Debug\DataEntryTest.pdb
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.csprojResolveAssemblyReference.cache
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.frmdataentry.resources
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.Properties.Resources.resources
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.csproj.GenerateResource.Cache
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.exe
+N:\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\bin\Debug\DataEntryTest.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\bin\Debug\DataEntryTest.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\bin\Debug\DataEntryTest.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.csprojResolveAssemblyReference.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.frmdataentry.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.Properties.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.csproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.csproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\DataEntryTest\DataEntryTest\obj\Debug\DataEntryTest.pdb
